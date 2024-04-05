@@ -36,3 +36,20 @@ La tecnología de la información es fundamental para el modelo de negocio de Am
 **3-14. ¿Tendra éxito Walmart contra Amazon.com? Explique su respuesta** 
 
 El éxito de Walmart contra Amazon depende de cómo ambas empresas adapten sus estrategias y aprovechen sus respectivas ventajas competitivas. Aunque Walmart tiene una fuerte presencia física y una marca establecida, Amazon ha demostrado ser un competidor formidable en el espacio del comercio electrónico. Para tener éxito contra Amazon, Walmart debe continuar invirtiendo en tecnología y mejorar su presencia en línea, al tiempo que capitaliza su red de tiendas físicas. La capacidad de Walmart para integrar eficazmente sus operaciones en línea y fuera de línea será crucial para su éxito a largo plazo en la competencia contra Amazon.
+
+
+# ¿Edward Snowden: ¿Traidor o protector de la privacidad?
+
+
+1. Realice un análisis ético del programa PRISM y las actividades de vigilancia de la NSA. ¿Cuál es el dilema ético que presenta este caso? 
+
+*El dilema ético principal en este caso es el equilibrio entre la seguridad nacional y la privacidad individual. Por un lado, la NSA argumenta que estos programas son necesarios para identificar y prevenir amenazas terroristas antes de que se materialicen, lo que podría salvar vidas y proteger a la población. Por otro lado, la recopilación masiva de datos personales, incluyendo metadatos de comunicaciones y contenido de correos electrónicos, plantea preocupaciones éticas sobre la invasión de la privacidad y el potencial abuso de poder por parte del gobierno. Además, la falta de transparencia y supervisión efectiva de estos programas también genera dilemas éticos relacionados con la rendición de cuentas y el respeto a los derechos civiles.*
+
+2. Describa el rol de la tecnología de la información en la creación de este dilema ético.
+
+*La tecnología de la información desempeña un papel central en la creación de este dilema ético al permitir la recopilación masiva, almacenamiento y análisis de datos a una escala sin precedentes. Los avances en la capacidad de almacenamiento, procesamiento y análisis de grandes volúmenes de datos, junto con la omnipresencia de dispositivos electrónicos y la conectividad en línea, han facilitado la vigilancia a gran escala por parte de agencias gubernamentales como la NSA. Además, la falta de transparencia y comprensión pública sobre cómo se utilizan exactamente estos datos contribuye a la preocupación ética y la falta de confianza en estos programas de vigilancia.*
+
+3. ¿Cree que se debe permitir a la NSA que continúe con sus programas de vigilancia electrónica? ¿Por qué?
+
+*La respuesta a esta pregunta depende de la ponderación de los valores éticos en juego, como la seguridad nacional y la privacidad individual. Algunos argumentarían que, dado el contexto de amenazas terroristas globales, es justificable que el gobierno utilice todos los medios necesarios para proteger a sus ciudadanos, incluso si eso implica ciertas invasiones de privacidad. Otros sostendrían que la preservación de la privacidad individual es un principio fundamental que no debe ser comprometido, y que los programas de vigilancia masiva representan una amenaza a los derechos civiles y las libertades democráticas. En última instancia, la decisión sobre si permitir que la NSA continúe con sus programas de vigilancia electrónica debe equilibrar cuidadosamente estos valores éticos y considerar las implicaciones a largo plazo para la sociedad.*
+
